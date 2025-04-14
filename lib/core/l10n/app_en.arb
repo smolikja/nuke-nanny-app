@@ -1,0 +1,31 @@
+{
+  "appTitle": "GrokAI Assistant",
+  
+  "chatPageTitle": "Chat with Grok",
+  "messageInputHint": "Type your message...",
+  "sendButtonLabel": "Send",
+  "emptyMessageError": "Message cannot be empty",
+  "emptyChatPlaceholder": "Start a conversation with Grok AI",
+  
+  "modelSelectorLabel": "AI Model",
+  "modelGrok1": "Grok-1",
+  "modelGrok15": "Grok-1.5",
+  
+  "userRole": "You",
+  "assistantRole": "Grok",
+  
+  "error_network_connection": "No internet connection. Please check your network settings.",
+  "error_server": "Server error. Please try again later.",
+  "error_authentication": "Authentication failed. Please log in again.",
+  "error_local_storage": "Storage error. Please restart the app.",
+  "error_validation": "Invalid input. Please check your data.",
+  "error_unexpected": "Unexpected error occurred. Please try again.",
+  "error_rate_limit": "Rate limit exceeded. Please try again later.",
+  "error_invalid_api_key": "Invalid API key. Please check your configuration.",
+  "error_model_unavailable": "Selected AI model is currently unavailable.",
+  
+  "retryButtonLabel": "Retry",
+  "cancelButtonLabel": "Cancel",
+  "clearChatButtonLabel": "Clear Chat",
+  "settingsButtonLabel": "Settings"
+}

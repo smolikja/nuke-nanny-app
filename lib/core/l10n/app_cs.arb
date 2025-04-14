@@ -1,0 +1,31 @@
+{
+  "appTitle": "GrokAI Asistent",
+  
+  "chatPageTitle": "Chat s Grok",
+  "messageInputHint": "Napište zprávu...",
+  "sendButtonLabel": "Odeslat",
+  "emptyMessageError": "Zpráva nemůže být prázdná",
+  "emptyChatPlaceholder": "Začněte konverzaci s Grok AI",
+  
+  "modelSelectorLabel": "AI Model",
+  "modelGrok1": "Grok-1",
+  "modelGrok15": "Grok-1.5",
+  
+  "userRole": "Vy",
+  "assistantRole": "Grok",
+  
+  "error_network_connection": "Žádné připojení k internetu. Zkontrolujte nastavení sítě.",
+  "error_server": "Chyba serveru. Zkuste to prosím později.",
+  "error_authentication": "Ověření selhalo. Přihlaste se prosím znovu.",
+  "error_local_storage": "Chyba úložiště. Restartujte prosím aplikaci.",
+  "error_validation": "Neplatný vstup. Zkontrolujte prosím svá data.",
+  "error_unexpected": "Došlo k neočekávané chybě. Zkuste to prosím znovu.",
+  "error_rate_limit": "Překročen limit požadavků. Zkuste to prosím později.",
+  "error_invalid_api_key": "Neplatný API klíč. Zkontrolujte prosím konfiguraci.",
+  "error_model_unavailable": "Vybraný AI model je momentálně nedostupný.",
+  
+  "retryButtonLabel": "Zkusit znovu",
+  "cancelButtonLabel": "Zrušit",
+  "clearChatButtonLabel": "Vymazat chat",
+  "settingsButtonLabel": "Nastavení"
+}
